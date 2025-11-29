@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Optimuspime123 from India
 - 👀 I’m interested in ... a lot of stuff 
 - 🌱 I’m currently learning ...  C and Python (and probably something else)
-- 📫 How to reach me ... https://optimusprime123.telegram.me
+- 📫 How to reach me ... https://optimusprime123.t.me
 - 🌐 My website - https://prancingunicorn.pages.dev
 
 <!---
